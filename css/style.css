@@ -27,3 +27,12 @@ body{
     background-color: burlywood;
     font-family: "Latin Modern Roman";
 }
+
+footer {
+    color: white;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+    background-color: darkblue;
+  }
