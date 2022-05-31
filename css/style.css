@@ -9,6 +9,11 @@
     
 }
 
+main{
+    padding-bottom: 50%;
+    
+}
+
 .container{
     background-color: darkblue;
     display: flex;
@@ -23,19 +28,16 @@ a{
     color: white;
 }
 
-body{
+#index{
     background-color: burlywood;
     font-family: "Latin Modern Roman";
 }
 
-footer {
+#footer {
     color: white;
-    height: 120px;
-    display: flex;
-    justify-content: space-around;
-    padding: 1em;
     background-color: darkblue;
   }
+
 .img1{
 
     width: 30em;
